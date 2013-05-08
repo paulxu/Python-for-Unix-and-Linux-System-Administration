@@ -1,4 +1,4 @@
-# Standard practice for new line is space, space, enter for a new line
+Standard practice for new line is space, space, enter for a new line
 
 Create a new repository on the command line
 
